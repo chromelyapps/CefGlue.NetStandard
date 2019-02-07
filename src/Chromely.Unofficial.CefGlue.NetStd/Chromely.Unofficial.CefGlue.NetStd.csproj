@@ -4,16 +4,16 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Platforms>AnyCPU</Platforms>
     <RootNamespace>Xilium.CefGlue</RootNamespace>
-    <Copyright>Copyright © 2017-2018 Chromely Projects</Copyright>
+    <Copyright>Copyright © 2017-2019 Chromely Projects</Copyright>
     <PackageProjectUrl>https://github.com/chromelyapps/CefGlue.NetStandard</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/chromelyapps/Chromely/blob/master/LICENSE.md</PackageLicenseUrl>
     <PackageIconUrl>https://github.com/chromelyapps/Chromely/blob/master/nugets/chromely.ico?raw=true</PackageIconUrl>
-    <PackageReleaseNotes>The base CEF version for this release is 68.0.3440.84. This is also reflected in how this version is named. For example this version will be 68.0.3440.84.</PackageReleaseNotes>
+    <PackageReleaseNotes>The base CEF version for this release is 70.0.3538.102. This is also reflected in how this version is named. For example this version will be 70.0.3538.102.</PackageReleaseNotes>
     <Description>This is an unofficial port of Xilium.CefGlue to .NETStandard 2.0. For more recent versions and updates please also check the main Xilium.CefGlue  site  @ https://gitlab.com/xiliumhq/chromiumembedded/cefglue</Description>
-    <ProductVersion>68.0.3440.84</ProductVersion>
-    <AssemblyVersion>68.0.3440.84</AssemblyVersion>
-    <FileVersion>68.0.3440.84</FileVersion>
-    <Version>68.0.3440.84</Version>
+    <ProductVersion>70.0.3538.102</ProductVersion>
+    <AssemblyVersion>70.0.3538.102</AssemblyVersion>
+    <FileVersion>70.0.3538.102</FileVersion>
+    <Version>70.0.3538.102</Version>
     <PackageTags>Cef Chromium HTML5 Desktop Chromely CefGlue CefSharp Restful  Ajax HTTP XHR JavascriptIntegration NetStandard .NET Core</PackageTags>
     <Authors>Chromely Projects</Authors>
     <Company>Chromely Projects</Company>
