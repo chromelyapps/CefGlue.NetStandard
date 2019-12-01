@@ -8,12 +8,12 @@
     <PackageProjectUrl>https://github.com/chromelyapps/CefGlue.NetStandard</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/chromelyapps/Chromely/blob/master/LICENSE.md</PackageLicenseUrl>
     <PackageIconUrl>https://github.com/chromelyapps/Chromely/blob/master/nugets/chromely.ico?raw=true</PackageIconUrl>
-    <PackageReleaseNotes>The base CEF version for this release is 70.0.3538.102. This is also reflected in how this version is named. For example this version will be 70.0.3538.102.</PackageReleaseNotes>
+    <PackageReleaseNotes>The base CEF/Chromium version for this release is 77.0.3865.120. This is also reflected in how this version is named. For example this version will be 77.0.3865.120.</PackageReleaseNotes>
     <Description>This is an unofficial port of Xilium.CefGlue to .NETStandard 2.0. For more recent versions and updates please also check the main Xilium.CefGlue  site  @ https://gitlab.com/xiliumhq/chromiumembedded/cefglue</Description>
-    <ProductVersion>70.0.3538.102</ProductVersion>
-    <AssemblyVersion>70.0.3538.102</AssemblyVersion>
-    <FileVersion>70.0.3538.102</FileVersion>
-    <Version>70.0.3538.102</Version>
+    <ProductVersion>77.0.3865.120</ProductVersion>
+    <AssemblyVersion>77.0.3865.120</AssemblyVersion>
+    <FileVersion>77.0.3865.120</FileVersion>
+    <Version>77.0.3865.120</Version>
     <PackageTags>Cef Chromium HTML5 Desktop Chromely CefGlue CefSharp Restful  Ajax HTTP XHR JavascriptIntegration NetStandard .NET Core</PackageTags>
     <Authors>Chromely Projects</Authors>
     <Company>Chromely Projects</Company>
@@ -32,14 +32,5 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <OutputPath>bin\Release\</OutputPath>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Compile Remove="Interop\Base\cef_string_t.disabled.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <PackageReference Include="System.Collections.Specialized" Version="4.3.0" />
-    <PackageReference Include="System.IO.UnmanagedMemoryStream" Version="4.3.0" />
-  </ItemGroup>
-
+  
 </Project>
