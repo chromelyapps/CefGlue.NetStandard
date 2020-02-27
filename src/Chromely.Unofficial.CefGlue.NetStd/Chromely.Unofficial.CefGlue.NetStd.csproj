@@ -4,17 +4,17 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Platforms>AnyCPU</Platforms>
     <RootNamespace>Xilium.CefGlue</RootNamespace>
-    <Copyright>Copyright © 2017-2019 Chromely Projects</Copyright>
+    <Copyright>Copyright © 2017-2020 Chromely Projects</Copyright>
     <PackageProjectUrl>https://github.com/chromelyapps/CefGlue.NetStandard</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/chromelyapps/Chromely/blob/master/LICENSE.md</PackageLicenseUrl>
     <PackageIconUrl>https://github.com/chromelyapps/Chromely/blob/master/nugets/chromely.ico?raw=true</PackageIconUrl>
-    <PackageReleaseNotes>The base CEF/Chromium version for this release is 77.0.3865.120. This is also reflected in how this version is named. For example this version will be 77.0.3865.120.</PackageReleaseNotes>
-    <Description>This is an unofficial port of Xilium.CefGlue to .NETStandard 2.0. For more recent versions and updates please also check the main Xilium.CefGlue  site  @ https://gitlab.com/xiliumhq/chromiumembedded/cefglue</Description>
-    <ProductVersion>77.0.3865.120</ProductVersion>
-    <AssemblyVersion>77.0.3865.120</AssemblyVersion>
-    <FileVersion>77.0.3865.120</FileVersion>
-    <Version>77.0.3865.120</Version>
-    <PackageTags>Cef Chromium HTML5 Desktop Chromely CefGlue CefSharp Restful  Ajax HTTP XHR JavascriptIntegration NetStandard .NET Core</PackageTags>
+    <PackageReleaseNotes>The base CEF/Chromium version for this release is 79.0.3945.130. This is also reflected in how this version is named. For example this version will be 79.0.3945.130.</PackageReleaseNotes>
+    <Description>This is an unofficial port of Xilium.CefGlue to .NETStandard 2.0. For more recent versions and updates please also check the main Xilium.CefGlue  site  @ https://gitlab.com/xiliumhq/chromiumembedded/cefglue </Description>
+    <ProductVersion>79.0.3945.130</ProductVersion>
+    <AssemblyVersion>79.0.3945.130</AssemblyVersion>
+    <FileVersion>79.0.3945.130</FileVersion>
+    <Version>79.0.3945.130</Version>
+    <PackageTags>CEF Chromium HTML5 Desktop Chromely CefGlue Restful Ajax HTTP XHR JavascriptIntegration NetStandard .NET Core</PackageTags>
     <Authors>Chromely Projects</Authors>
     <Company>Chromely Projects</Company>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
