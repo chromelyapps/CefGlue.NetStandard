@@ -1,0 +1,24 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Chromely.Unofficial.CefGlue.NetStd/83.0.4103.106": {
+        "runtime": {
+          "Chromely.Unofficial.CefGlue.NetStd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chromely.Unofficial.CefGlue.NetStd/83.0.4103.106": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
